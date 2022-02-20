@@ -2,8 +2,7 @@
 
 This review is made in analogy with the review of machine learning for particle physics [here](https://iml-wg.github.io/HEPML-LivingReview/).
 
-The purpose of this note is to collect references for symbolic regression. Notes will be later reference as per category to be as easy and sueful as possible. 
-A minimal number of categories is chosen in order to be as useful as possible. 
+The purpose of this note is to collect references for symbolic regression. Notes will be later reference as per category to be as easy and useful as possible. 
 
 
 * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf), [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
