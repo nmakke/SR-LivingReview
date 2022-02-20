@@ -16,6 +16,7 @@ The goal of this repository is to collect references for symbolic regression. No
   * [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/pdf/1912.04825.pdf)
   * [Symbolic regression for scientific discovery: an application to wind speed forecasting](https://arxiv.org/pdf/2102.10570.pdf)
   * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
+  * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
 
 * Benchmark
   * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf)
