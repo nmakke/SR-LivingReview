@@ -1,8 +1,10 @@
 # A living Review of Symbolic Regression
 
-This review is made in analogy with the review of machine learning for particle physics [here](https://iml-wg.github.io/HEPML-LivingReview/).
+This review is made in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
 
-The purpose of this note is to collect references for symbolic regression. Notes will be later reference as per category to be as easy and useful as possible. 
+Symbolic regression aims to learn the underlying model in a given dataset, by searching the space of mathematical functions the analytical equation that best fit data. A growing interest in symbolic regression is taking place in the AI community because it balances between model complexity and interpretability. 
+
+The goal of this repository is to collect references for symbolic regression. Notes will be later categorized in an as easy and useful manner as possible. 
 
 
 * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf), [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
