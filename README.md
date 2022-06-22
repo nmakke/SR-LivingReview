@@ -15,6 +15,8 @@ The goal of this repository is to collect references for symbolic regression. No
   * [Symbolic regression for scientific discovery: an application to wind speed forecasting](https://arxiv.org/pdf/2102.10570.pdf)
   * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
   * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
+  * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
+  * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
 * NN + SR
   * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf),[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
@@ -25,5 +27,4 @@ The goal of this repository is to collect references for symbolic regression. No
 
 [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/pdf/1906.07906.pdf)
 [Sparse dynamics for partial differential equations]()
-[Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
-[Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)
+
