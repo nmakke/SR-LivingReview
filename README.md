@@ -22,3 +22,6 @@ The goal of this repository is to collect references for symbolic regression. No
 
 * Benchmark
   * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf)
+
+[Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/pdf/1906.07906.pdf)
+[Sparse dynamics for partial differential equations]()
