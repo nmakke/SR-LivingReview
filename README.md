@@ -25,3 +25,5 @@ The goal of this repository is to collect references for symbolic regression. No
 
 [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/pdf/1906.07906.pdf)
 [Sparse dynamics for partial differential equations]()
+[Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
+[Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)
