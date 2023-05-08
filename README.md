@@ -23,12 +23,12 @@ The goal of this repository is to collect references for symbolic regression met
     * [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/pdf/1912.04825.pdf)
     * [Symbolic regression for scientific discovery: an application to wind speed forecasting](https://arxiv.org/pdf/2102.10570.pdf)
     * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
-    * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
     * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
     * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
 * **Expression tree-based approaches**
   * Genetic programming
+       * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
   * Reinforcement learning
   * Transformer neural network
 
