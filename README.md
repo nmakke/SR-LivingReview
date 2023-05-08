@@ -32,12 +32,12 @@ The goal of this repository is to collect references for symbolic regression met
   * Reinforcement learning
   * Transformer neural network
 
-* **physics-inspired**
+* **Physics-inspired**
   * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf), [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
 
-* **mathematics-inspired**
+* **Mathematics-inspired**
   * [Demystifying Black-box Models with
-Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf)[![#c5f015](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling)
+Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf), [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling)
 
 * NN + SR
   * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf),[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
