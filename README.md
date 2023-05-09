@@ -4,6 +4,7 @@ This note aims to collect references for symbolic regression methods and applica
 
 Symbolic regression (SR) is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application. 
 
+## Methods 
 The goal of this repository is to collect references for symbolic regression methods and applications, so it is expected that this note will continue to evolve. References are categorized in an as easy and useful manner as possible, with a summary given in the table below. 
 
 | Category | Methods | learned model |
@@ -52,4 +53,6 @@ Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf), 
 
 [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/pdf/1906.07906.pdf)
 [Sparse dynamics for partial differential equations]()
+
+# Review of Symbolic Regression Data sets
 
