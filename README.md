@@ -1,8 +1,8 @@
-# A living Review of Symbolic Regression
+# A living Review of Symbolic Regression [methods](#methods) and [data sets](#review-of-symbolic-regression-data-sets)
 
 This note aims to collect references for symbolic regression methods and applications, as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled ***Interpretable Scientific Discovery with Symbolic Regression: A Review***. It is created in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
 
-Symbolic regression (SR) is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application. 
+Symbolic regression (SR) is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application.  
 
 ## Methods 
 The goal of this repository is to collect references for symbolic regression methods and applications, so it is expected that this note will continue to evolve. References are categorized in an as easy and useful manner as possible, with a summary given in the table below. 
