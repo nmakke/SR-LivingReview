@@ -1,6 +1,6 @@
-# A living Review of Symbolic Regression [methods](#methods) and [data sets](#review-of-symbolic-regression-data-sets)
+# A living Review of Symbolic Regression
 
-This note aims to collect references for symbolic regression methods and applications, as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled ***Interpretable Scientific Discovery with Symbolic Regression: A Review***. It is created in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
+This note aims to collect references for symbolic regression [methods/applications](#methods) and [data sets](#review-of-symbolic-regression-data-sets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "***Interpretable Scientific Discovery with Symbolic Regression: A Review***". It is created in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
 
 Symbolic regression (SR) is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application.  
 
@@ -16,8 +16,8 @@ The goal of this repository is to collect references for symbolic regression met
 
 * **Regression-based SR**
   * Linear approach
-    * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) [PDF](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------) (SINDY)
-    * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf), [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
+    * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[DOI](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
+    * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [DOI](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
 
   * Non-linear approaches
     * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf), [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
