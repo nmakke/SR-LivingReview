@@ -1,6 +1,8 @@
 # A living Review of Symbolic Regression
 
-This note aims to collect references for symbolic regression [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "***Interpretable Scientific Discovery with Symbolic Regression: A Review***". It is created in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
+This note aims to collect references for symbolic regression [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled Interpretable Scientific Discovery with Symbolic Regression: A Review. 
+
+**A webpage of a living review for symbolic regression was first proposed in the cited review**. It is created in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
 
 Symbolic regression (SR) is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application. Most symbolic regression methods generate data from mathematical equations 
 
@@ -63,14 +65,27 @@ Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [
     * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
     * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
     * [Rediscovering orbital mechanics with machine learning](https://arxiv.org/abs/2202.02306)
-   *  Materials sciences
-   *  Biology/Medicine
+
   
 * Benchmark
-  * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf)
+  * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
 
-[Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/pdf/1906.07906.pdf)
-[Sparse dynamics for partial differential equations]()
+<!-- [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/pdf/1906.07906.pdf)
+[Sparse dynamics for partial differential equations]() -->
 
 ## Datasets
+
+| Category | Methods | learned model |
+| -------- | ------- | ----- 
+| Physics-related | [Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html) <br> [Strogatz repositery](https://williamlacava.com/ode-strogatz/) | 2019 <br> 2011
+| Mathematics-related | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
+| Real-world problems | [link](https://epistasislab.github.io/pmlb/) | 
+
+
+
+
+
+
+
+
 
