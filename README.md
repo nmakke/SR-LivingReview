@@ -2,16 +2,16 @@
 
 This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "Interpretable Scientific Discovery with Symbolic Regression: A Review". The latter reviews state-of-the-art methods and applications on SR, along with available datasets usually used in testing SR methods, and discusses their main strength and weakness.
 
-A living review for symbolic regression webpage was **first** proposed in the mentioned review in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.
+**A living review for symbolic regression is first** proposed in the mentioned review in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.
 
 Symbolic regression is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application.
 
 ## Methods 
 The symbolic regression problem can be approached and solved in different manners, depending on the way the target mathematical expression f(x) is defined. References (for SR) are categorized in an as easy and useful manner as possible, with a summary given in the table below. 
 
-| Category | Methods | learned model |
-| -------- | ------- | ----- 
-| Regression-based | Linear SR <br> Non-linear SR | System of linear equations <br> Neural network |
+| Category | Description | Methods | learned model |
+| -------- | ------- | ------- | ----- 
+| Regression-based | the model has a pre-defined form such as a linear combination of non-linear functions or a neural network, and the porblem reduces to learn the parameters of the modefl| Linear SR <br> Non-linear SR | System of linear equations <br> Neural network |
 | Expression tree-based | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | tree structure <br> policy <br> sequence |
 | Physics-inspired | AIFeynman | Brute force search and neural network |
 | Mathematics-inspired| Metamodel | Meijer functions |
@@ -59,7 +59,7 @@ Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [
     * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
 
 
-* **Symbolic Regression Applications**
+## Applications
 
   * Physics   
     * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
@@ -74,6 +74,14 @@ Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [
 [Sparse dynamics for partial differential equations]() -->
 
 ## Datasets
+
+Data sets can be categorized into two main groups:
+
+**Synthetic data**  for which analytical form of underlying model is known, and used to generate data points. <br>
+Example: $f(x) = 2x^2 + \cos(x)$, $x \in [0,1] \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$
+
+**Real-world data** for which underlying model is unknown.<br>
+$\mathcal{D}=(x_i,y_i)_{i=1}^{n}$ 
 
 | Category | Methods | learned model |
 | -------- | ------- | ----- 
