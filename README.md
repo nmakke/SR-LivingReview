@@ -1,13 +1,13 @@
 # A living Review of Symbolic Regression
 
-This note aims to collect references for symbolic regression [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled Interpretable Scientific Discovery with Symbolic Regression: A Review. 
+This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "Interpretable Scientific Discovery with Symbolic Regression: A Review". The latter reviews state-of-the-art methods and applications on SR, along with available datasets usually used in testing SR methods, and discusses their main strength and weakness.
 
-**A webpage of a living review for symbolic regression was first proposed in the cited review**. It is created in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/).
+A living review for symbolic regression webpage was **first** proposed in the mentioned review in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.
 
-Symbolic regression (SR) is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application. Most symbolic regression methods generate data from mathematical equations 
+Symbolic regression is an emerging branch of machine learning that aims to learn analytical form of underlying model in data, by searching the space of mathematical functions. A growing interest in symbolic regression is taking place in the AI community because it pomotes interpretability, which is a critical factor for a safe AI application.
 
 ## Methods 
-The goal of this repository is to collect references for symbolic regression methods and applications, so it is expected that this note will continue to evolve. References are categorized in an as easy and useful manner as possible, with a summary given in the table below. 
+The symbolic regression problem can be approached and solved in different manners, depending on the way the target mathematical expression f(x) is defined. References (for SR) are categorized in an as easy and useful manner as possible, with a summary given in the table below. 
 
 | Category | Methods | learned model |
 | -------- | ------- | ----- 
