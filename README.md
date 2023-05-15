@@ -9,13 +9,17 @@ Symbolic regression is an emerging branch of machine learning that aims to learn
 ## Methods 
 The symbolic regression problem can be approached and solved in different manners, depending on the way the target mathematical expression f(x) is defined. References (for SR) are categorized in an as easy and useful manner as possible, with a summary given in the table below. 
 
-| Category | Description | Methods | learned model |
-| -------- | ------- | ------- | ----- 
-| Regression-based | the model has a pre-defined form such as a linear combination of non-linear functions or a neural network, and the porblem reduces to learn the parameters of the modefl| Linear SR <br> Non-linear SR | System of linear equations <br> Neural network |
+| Category | Methods | learned model |
+| -------- | ------- | ----- 
+| Regression-based | Linear SR <br> Non-linear SR | System of linear equations <br> Neural network |
 | Expression tree-based | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | tree structure <br> policy <br> sequence |
 | Physics-inspired | AIFeynman | Brute force search and neural network |
 | Mathematics-inspired| Metamodel | Meijer functions |
 
+<!-- the model has a pre-defined form such as a linear combination of non-linear functions or a neural network<br> the problem reduces to learn the parameters of the model
+mathemcatical equations are treated as <br> unary-binary trees, which can be written in polish notation as sequences of symbolic representations |
+ -->
+ 
 * **Regression-based SR**
   * Linear approach
     * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
