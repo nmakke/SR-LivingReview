@@ -1,4 +1,4 @@
-# A living Review of Symbolic Regression
+# A living Review for Symbolic Regression
 
 This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "Interpretable Scientific Discovery with Symbolic Regression: A Review". The latter reviews state-of-the-art methods and applications on SR, along with available datasets usually used in testing SR methods, and discusses their main strength and weakness.
 
