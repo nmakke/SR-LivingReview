@@ -1,6 +1,6 @@
 # A living Review for Symbolic Regression
 
-This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "Interpretable Scientific Discovery with Symbolic Regression: A Review". The latter reviews state-of-the-art methods and applications on SR, along with available datasets usually used in testing SR methods, and discusses their main strength and weakness.
+This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "Interpretable Scientific Discovery with Symbolic Regression: A Review". The latter reviews SR methods and state-of-the-art applications of SR, along with exisiting datasets usually used in testing SR methods, and discusses their main strength and weakness.
 
 **A living review for symbolic regression is first** proposed in the mentioned review in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.
 
