@@ -13,7 +13,7 @@ The symbolic regression problem can be approached and solved in different manner
 
 | Category | Methods | learned model |
 | -------- | ------- | ----- 
-| Regression-based | Linear SR <br> Non-linear SR | System of linear equations <br> Neural network |
+| Regression-based | Linear SR <br> Non-linear SR | System of linear equations <br> Deep Neural Network |
 | Expression tree-based | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | tree structure <br> policy <br> sequence |
 | Physics-inspired | AIFeynman | Brute force search and neural network |
 | Mathematics-inspired| Metamodel | Meijer functions |
