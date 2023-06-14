@@ -1,6 +1,8 @@
-# A living Review for Symbolic Regression
+# A living Review of Symbolic Regression
 
-This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "Interpretable Scientific Discovery with Symbolic Regression: A Review". The latter reviews SR methods and state-of-the-art applications of SR, along with exisiting datasets usually used in testing SR methods, and discusses their main strength and weakness.
+This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "**Interpretable Scientific Discovery with Symbolic Regression: A Review**". The latter reviews SR methods and state-of-the-art applications of SR, along with exisiting datasets usually used in testing SR methods, and discusses their main strength and weakness.
+
+<!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
 
 **A living review for symbolic regression is first** proposed in the mentioned review in analogy with "A Living Review of Machine Learning for Particle Physics" that can be found [here](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.
 
@@ -20,7 +22,7 @@ The symbolic regression problem can be approached and solved in different manner
 mathemcatical equations are treated as <br> unary-binary trees, which can be written in polish notation as sequences of symbolic representations |
  -->
  
-* **Regression-based SR**
+* **Regression-based SR** <br>
   * Linear approach
     * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
     * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
@@ -32,7 +34,7 @@ mathemcatical equations are treated as <br> unary-binary trees, which can be wri
     * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
     * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-* **Expression tree-based approaches**
+* **Expression tree-based approaches** <br>
   * Genetic programming
        * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
        * [PySR: High-Performance Symbolic Regression in Python and Julia](https://github.com/MilesCranmer/pysr)
