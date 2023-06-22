@@ -1,5 +1,8 @@
 # A living Review of Symbolic Regression
 
+
+$$a^2 + b^2 = c^2$$ 
+
 This note aims to collect references for symbolic regression (SR) [methods](#methods) and [datasets](#datasets), as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "**Interpretable Scientific Discovery with Symbolic Regression: A Review**". The latter reviews SR methods and state-of-the-art applications of SR, along with exisiting datasets usually used in testing SR methods, and discusses their main strength and weakness.
 
 <!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
