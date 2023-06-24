@@ -1,0 +1,48 @@
+site_name: SR-LivingReview
+site_url: https://github.com/nmakke/SR-LivingReview/
+
+repo_url: https://github.com/nmakke/SR-LivingReview/
+
+theme:
+  name: material
+nav:
+    - Home: index.md
+    - About: about.md
+    - Methods: methods.md
+    - Datasets: datasets.md
+
+plugins:
+  - search
+  - table-reader
+  
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+  - mdx_math
+
+markdown_extensions:
+  - attr_list
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    # - navigation.expand
+    - toc.follow
+    - navigation.top
+    # - toc.integrate
+    - search.share
+    - search.suggest
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
