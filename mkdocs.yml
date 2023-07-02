@@ -7,7 +7,7 @@ theme:
   name: material
 nav:
     - Home: index.md
-    - Definition: sr.md
+    - About: sr.md
     - Methods: methods.md
     - Datasets: datasets.md
     - Cite: cite.md
@@ -23,6 +23,27 @@ markdown_extensions:
 
 markdown_extensions:
   - attr_list
+  
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  
+markdown_extensions:
+  - mdx_math
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
 
 theme:
   name: material
