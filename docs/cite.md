@@ -1,4 +1,10 @@
-Please cite us if you have found the review useful
+---
+hide:
+  - navigation
+---
+
+
+Please cite the review if you have found it useful
 
 ```
 @misc{makke2023interpretable,
