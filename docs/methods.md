@@ -12,9 +12,9 @@ Below you find the list of SR methods for each category.
 <!-- | Category | Description | Methods | learned model |-->
 | <div style="width:140px">Category</div> | <div style="width:180px">Description</div> | <div style="width:220px">Methods</div> | <div style="width:180px">learned model</div> |
 | ---- | ------- | --- | --- |
-| Regression-based | This category assumes a predefined model structure. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned | Linear SR <br> Non-linear SR | System of linear equations <br> Deep Neural Network (DNN) |
+| Regression-based | This category assumes a predefined model structure and learns only parameters. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. | Linear SR (sparse regression) <br> Non-linear SR | System of linear equations <br> Deep Neural Network (DNN) |
 | Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators and  analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |
-| Physics-inspired | Theses methods use dimensional analysis (units of measurements) | AIFeynman | Neural network for symmetries (translational, rotational) |
+| Physics-inspired | Theses methods use physical units of measurements of input features (so-called dimensional analysis) | AIFeynman | Neural network for symmetries (translational, rotational) |
 | Mathematics-inspired| This method uses the Meijer functions | Metamodel | parameters of the Meijer functions |
 
 ## Regression-based SR
