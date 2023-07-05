@@ -10,12 +10,12 @@ Below you find the list of SR methods for each category.
 <!--  **Other SR approaches** category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.-->
 
 <!-- | Category | Description | Methods | learned model |-->
-| <div style="width:180px">Category</div> | <div style="width:180px">Description</div> | <div style="width:220px">Methods</div> | <div style="width:180px">learned model</div> |
+| <div style="width:160px">Category</div> | <div style="width:180px">Description</div> | <div style="width:220px">Methods</div> | <div style="width:180px">learned model</div> |
 | ---- | ------- | --- | --- |
 | Regression-based | SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned |Linear SR <br> Non-linear SR | System of linear equations <br> Deep Neural Network |
 | Expression tree-based | SR methods treat mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables.  | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |
-| Physics-inspired | | AIFeynman | Brute force search and neural network |
-| Mathematics-inspired| | Metamodel | Meijer functions |
+| Physics-inspired | Theses methods use dimensional analysis (units of measurements) | AIFeynman | Neural network for symmetries (translational, rotational) |
+| Mathematics-inspired| This method uses the Meijer functions | Metamodel | parameters of the Meijer functions |
 
 ## Regression-based SR
   
@@ -26,7 +26,7 @@ Below you find the list of SR methods for each category.
     </div>
     
     * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
-    * [Sparse identification of nonlinear dynamics for rapid model recovery)[https://arxiv.org/pdf/1803.00894.pdf][[DOI]](https://pubs.aip.org/aip/cha/article/28/6/063116/1059339/Sparse-identification-of-nonlinear-dynamics-for)
+    * [Sparse identification of nonlinear dynamics for rapid model recovery](https://arxiv.org/pdf/1803.00894.pdf)[[DOI]](https://pubs.aip.org/aip/cha/article/28/6/063116/1059339/Sparse-identification-of-nonlinear-dynamics-for)
     * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
     
 ???+ note "Non-linear approaches"
