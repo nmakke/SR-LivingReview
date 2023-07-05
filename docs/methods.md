@@ -14,7 +14,7 @@ Below you find the list of SR methods for each category.
 | ---- | ------- | --- | --- |
 | Regression-based | This category assumes a predefined model structure and learns only parameters. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. | Linear SR (sparse regression) <br> Non-linear SR | System of linear equations <br> Deep Neural Network (DNN) |
 | Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators and  analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |
-| Physics-inspired | This category uses units of measurements of input features (so-called dimensional analysis) | AIFeynman | Neural network for symmetries (translational, rotational) |
+| Physics-inspired | This category uses units of measurements of input features (so-called dimensional analysis) | Deep learning (including many tools) & polynomial fit & brute force search | Neural network for symmetries (translational, rotational) |
 | Mathematics-inspired| This method uses the Meijer functions | Metamodel | parameters of the Meijer functions |
 
 ## Regression-based SR
@@ -89,7 +89,6 @@ Below you find the list of SR methods for each category.
 
     * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
     * [$\phi$-SO: Physical Symbolic Optimization](https://arxiv.org/pdf/2303.03192.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/WassimTenachi/PhySO/tree/main)
-    * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
 ???+ note "Mathematics-inspired"
     <div class="meta_for_parser tablespecs"
