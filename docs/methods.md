@@ -26,7 +26,7 @@ Below you find the list of SR methods for each category.
     </div>
     
     * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
-    * [Sparse identification of nonlinear dynamics for rapid model recovery](https://arxiv.org/pdf/1803.00894.pdf)[[DOI]](https://pubs.aip.org/aip/cha/article/28/6/063116/1059339/Sparse-identification-of-nonlinear-dynamics-for)
+    * [Sparse identification of nonlinear dynamics for rapid model recovery](https://arxiv.org/pdf/1803.00894.pdf) [[DOI]](https://pubs.aip.org/aip/cha/article/28/6/063116/1059339/Sparse-identification-of-nonlinear-dynamics-for)
     * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY_AE)
     
 ???+ note "Non-linear approaches"
