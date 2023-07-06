@@ -5,7 +5,7 @@
 
 # SR Problem definition
 
-Given a data set **$\mathcal{D} =\{\mathbf{x}_i,y_i\}_{i=1}^{n}$** where **$\mathbf{x}_i \in \mathbb{R}^{d}$**, SR's goal is to learn the function **$f(\mathbf{x})$** such that $y_i = f(\mathbf{x}_i) \forall i$.
+Given a data set **$\mathcal{D} =\{\mathbf{x}_i,y_i\}_{i=1}^{n}$** where **$\mathbf{x}_i \in \mathbb{R}^{d}$**, SR's goal is to learn the function **$f(\mathbf{x})$** such that $y_i = f(\mathbf{x}_i) ~~\forall ~~i$.
 
 Three components are required to solve the SR problem:
 
