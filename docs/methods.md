@@ -14,7 +14,7 @@ Below you find the list of SR methods for each category.
 | ---- | ------- | --- | --- |
 | Regression-based | This category assumes a predefined model structure and learns only parameters. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. | Linear SR (sparse regression) <br> Non-linear SR | System of linear equations <br> Deep Neural Network (DNN) |
 | Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators and  analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |
-| Physics-inspired | This category uses units of measurements of input features (so-called dimensional analysis) | Deep learning (including many tools) & polynomial fit & brute force search | Neural network for symmetries (translational, rotational) |
+| Physics-inspired | This category considers units of measurements of input features (so-called dimensional analysis) to constraint the search space | Deep learning <br> polynomial fit <br> brute force search | Neural network parameters <br> polynomial coefficients |
 | Mathematics-inspired| This method uses the Meijer functions | Metamodel | parameters of the Meijer functions |
 
 ## Regression-based SR
