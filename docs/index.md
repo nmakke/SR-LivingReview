@@ -8,7 +8,7 @@ hide:
 
 Symbolic regression (SR) is a rapidly growing subfield of machine learning aiming to learn the analytical form of models that underlie data by searching the space of mathematical expressions. A growing interest in SR is taking place in AI community because it promotes interpretability, i.e., it learns a transparent relationship between the input and the output. 
 
-This document provides a list of state-of-the-art methods, datasets, and applications of symbolic regression as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled ***Interpretable Scientific Discovery with Symbolic Regression: A Review***. The goal is to list all research works on symbolic regression, so *this list will continue to evolve*. This living review was proposed in the mentioned review in analogy with HEP ML Living Review ([link](https://iml-wg.github.io/HEPML-LivingReview/)).
+This document provides a list of state-of-the-art methods, datasets, and applications of symbolic regression as part of the recent review entitled ***Interpretable Scientific Discovery with Symbolic Regression: A Review***. The goal is to list all research works on symbolic regression, so *this list will continue to evolve*. This living review was proposed in the mentioned review in analogy with HEP ML Living Review ([link](https://iml-wg.github.io/HEPML-LivingReview/)).
 
 <!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
 
@@ -132,4 +132,12 @@ This document provides a list of state-of-the-art methods, datasets, and applica
     </div>
     
       * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
+      
+??? note "Reviews"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ##  Reviews
+    </div>
+    
+      * [Interpretable Scientific Discovery with Symbolic Regression: A Review](https://arxiv.org/pdf/2211.10873.pdf)
       
