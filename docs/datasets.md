@@ -23,7 +23,6 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Koza-1 | $x^4 + x^3 + x^2 + x$ | 1 &  U[-1, 1, 20] |
 | Koza-2 | $x^5 - 2x^3 + x$	  | 1 | U[-1, 1, 20] |
 | Koza-3 | $x^6 - 2x^4 + x^2$    | 1 | U[-1, 1, 20] |
-
 | Keijzer-1 | $0.3 x \sin(2\pi x)$ | 1 | E[-1, 1, 0.1] |
 | Keijzer-2 | $0.3 x \sin(2\pi x)$ | 1 | E[-2, 2, 0.1] |
 | Keijzer-3 | $0.3 x \sin(2\pi x)$ | 1 | E[-3, 3, 0.1] |
@@ -39,7 +38,6 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Keijzer-13 | $6\sin(x)\cos(y)$ | 2 | U[-3, 3, 20] |
 | Keijzer-14 | $8/(2+x^2+y^2)$ | 2 |  U[-3, 3, 20] |
 | Keijzer-15 | $x^3/5 +y^3/2-y-x$ | 2 | U[-3, 3, 20] |
-
 | Vladislavleva-1 | $\frac{e^{-(x-1)^2}}{1.2+(y-2.5)^2}$ | 1 | U[0.3, 4, 100] |
 | Vladislavleva-2 | $e^{-x}x^3(\cos x\sin x)(\cos x \sin^2 x-1)$ | 2 | E[0.5, 10, 0.1] |
 | Vladislavleva-3 | $e^{-x}x^3(\cos x\sin x)(\cos x\sin^2 x-1)(y-5)$ | 2 | $x:$E[0.05,10,0.1]| $y:$E[0.05,10.05,2]|
@@ -48,8 +46,6 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Vladislavleva-6 | $6\sin(x)\cos(y)$ | 2 | U[0.1, 5.9, 30] |
 | Vladislavleva-7 | $(x-3)(y-3) + 2\sin((x-4)(y-4))$ | 2 | U[0.05, 6.05, 300] |
 | Vladislavleva-8 | $\frac{(x-3)^4+(y-3)^3-(y-3)}{(y-2)^4+10}$ | 2 |  U[0.05, 6.05, 50]| 
-
-
 | Nguyen-1 | $x^3+ x^2 + x$ | 1 | U(-1,1,20)|
 | Nguyen-2 | $x^4 + x^3+ x^2 + x$| 1 |  U(-1,1,20)|
 | Nguyen-3 | $x^5 + x^4 + x^3+ x^2 + x$| 1 | U(-1,1,20)|
@@ -62,7 +58,6 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Nguyen-10 | $2\sin(x)\cos(y)$ | 2 | U(-1,1,100)|
 | Nguyen-11 | $x^{y}$ |  2|
 | Nguyen-12 | $x^4 - x^3 + \frac{1}{2}y^2 - y$| 2|
-
 | Korns-1 | $1.57 + (24.3 v)$ | 1 | U[-50, 50, 10000] |
 | Korns-2 | $0.23 + 14.2\frac{v+y}{3\omega}$ | 3 | U[-50, 50, 10000] |
 | Korns-3 | $-5.41 + 4.9\frac{v-x+y/w}{3\omega}$ | 4 | U[-50, 50, 10000]|
@@ -78,18 +73,15 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Korns-13 | $32-3\frac{\tan(x)}{\tan(y)}\frac{\tan(z)}{\tan(v)}$ | 4 | U[-50, 50, 10000]|
 | Korns-14 | $22-4.2(\cos(x)-\tan(y))\frac{\tanh(z)}{\sin(v)}$ | 4 | U[-50, 50, 10000] |
 | Korns-15 | $12-6\frac{\tan(x)}{e^y}(\ln(z)-\tan(v))$ | 4 |  U[-50, 50, 10000]|
-
 | R1 | $(x+1)^3/(x^2-x+1)$ | 1 | E[-1,1,20]|
 | R2 | $(x^5-3x^3+1)/(x^2+1)$ | 1 | E[-1,1,20]|
 | R3 | $(x^6+x^5)/(x^4+x^3+x^2+x+1)$ | 1 | E[-1,1,20]|
-
 | Jin-1 | $2.5x^4 -1.3x^3 +0.5y^2 -1.7y$  | 2 | U(-3,3,100)|
 | Jin-2 | $ 8.0x^2 + 8.0y^3 -15.0$ | 2 | U(-3,3,100)|
 | Jin-3 | $ 0.2x^3 +1.5y^3 -1.2y -0.5x$ | 2 | U(-3,3,100)|
 | Jin-4 | $ 1.5\exp(x) + 5.0\cos(y)$ | 2 | U(-3,3,100)|
 | Jin-5 | $ 6.0\sin(x)\cos(y)$ | 2 | U(-3,3,100)|
 | Jin-6 | $ 1.35xy + 5.5\sin((x-1.0)(y-1.0)$ | 2 | U(-3,3,100)|
-
 | Livermore-1 | $1/3 + x + \sin(x^2)$ | 1 | U[-10,10,1000] |
 | Livermore-2 | $\sin(x^2)\cos(x) - 2$ | 1 | U[-1,1,20]|
 | Livermore-3 | $\sin(x^3)\cos(x^2) -1$ | 1 | U[-1,1,20]|
