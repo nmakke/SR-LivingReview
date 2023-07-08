@@ -20,14 +20,14 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 ## Koza equations
 | <div style="width:100px">Dataset</div> | <div style="width:100px">Expression</div> | <div style="width:100px">Variables</div> | <div style="width:100px">Training data range</div> | <div style="width:100px">Reference</div> |
 | -------- | ------- | ------- | ------- | ------- |
-| Koza-1 | $x^4 + x^3 + x^2 + x$ | 1 &  U[-1, 1, 20] |
+| Koza-1 | $x^4 + x^3 + x^2 + x$ | 1 |  U[-1, 1, 20] |
 | Koza-2 | $x^5 - 2x^3 + x$	  | 1 | U[-1, 1, 20] |
 | Koza-3 | $x^6 - 2x^4 + x^2$    | 1 | U[-1, 1, 20] |
 | Keijzer-1 | $0.3 x \sin(2\pi x)$ | 1 | E[-1, 1, 0.1] |
 | Keijzer-2 | $0.3 x \sin(2\pi x)$ | 1 | E[-2, 2, 0.1] |
 | Keijzer-3 | $0.3 x \sin(2\pi x)$ | 1 | E[-3, 3, 0.1] |
 | Keijzer-4 | $x^3e^{-x} \cos(x)\sin(x)(\sin^2(x)\cos(x)-1)$ | 1 | E[0, 10, 0.05] |
-| Keijzer-5 | \multirow{2}{*}{$30xz/(x-10)y^2$} | \multirow{2}{*}{3} | $x,z:$ U[-1,1,1000] | | | $y:$ U[1,2,1000]|
+| Keijzer-5 | $30xz/(x-10)y^2$ | $x,z:$ U[-1,1,1000]  $y:$ U[1,2,1000]|
 | Keijzer-6 | $\sum_1^{x}i$ | 1 | E[1, 50, 1] |
 | Keijzer-7 | $\log x$ | 1 | E[1, 100, 1] |
 | Keijzer-8 | $\sqrt{x}$ | 1 | E[0, 100, 1] |
