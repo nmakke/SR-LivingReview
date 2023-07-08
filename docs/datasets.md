@@ -39,9 +39,9 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Keijzer-15 | $x^3/5 +y^3/2-y-x$ | 2 | U[-3, 3, 20] |
 | Vladislavleva-1 | $\frac{e^{-(x-1)^2}}{1.2+(y-2.5)^2}$ | 1 | U[0.3, 4, 100] |
 | Vladislavleva-2 | $e^{-x}x^3(\cos x\sin x)(\cos x \sin^2 x-1)$ | 2 | E[0.5, 10, 0.1] |
-| Vladislavleva-3 | $e^{-x}x^3(\cos x\sin x)(\cos x\sin^2 x-1)(y-5)$ | 2 | $x:$E[0.05,10,0.1]| $y:$E[0.05,10.05,2]|
+| Vladislavleva-3 | $e^{-x}x^3(\cos x\sin x)(\cos x\sin^2 x-1)(y-5)$ | 2 | $x:$E[0.05,10,0.1] <br> $y:$E[0.05,10.05,2]|
 | Vladislavleva-4 | $\frac{10}{5+\sum_{i=1}^{5}(x_i-3)^2}$ | 5 | U[0.05, 6.05, 1024] |
-| Vladislavleva-5 | $30(x-1)\frac{(z-1)}{y^2(x-10)}$ | 3 | $x:$ U[0.05, 2, 300]|  $y:$ U[1, 2, 300] | $z:$ U[0.05, 2, 300] |
+| Vladislavleva-5 | $30(x-1)\frac{(z-1)}{y^2(x-10)}$ | 3 | $x:$ U[0.05, 2, 300] <br>  $y:$ U[1, 2, 300] <br> $z:$ U[0.05, 2, 300] |
 | Vladislavleva-6 | $6\sin(x)\cos(y)$ | 2 | U[0.1, 5.9, 30] |
 | Vladislavleva-7 | $(x-3)(y-3) + 2\sin((x-4)(y-4))$ | 2 | U[0.05, 6.05, 300] |
 | Vladislavleva-8 | $\frac{(x-3)^4+(y-3)^3-(y-3)}{(y-2)^4+10}$ | 2 |  U[0.05, 6.05, 50]| 
