@@ -17,9 +17,8 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | <br> <br> <br> Mathematics | <br> <br> <br> monomials, polynomials, <br> trigonometric, exponential, etc.  | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> Livermore | Koza <br> [Keijer](https://link.springer.com/chapter/10.1007/3-540-36599-0_7) <br> [Vladislavleva *et al.*](https://dl.acm.org/doi/10.1109/TEVC.2008.926486) <br> [Uy *et al.*](https://link.springer.com/article/10.1007/s10710-010-9121-2) <br> [Korns](https://link.springer.com/chapter/10.1007/978-1-4614-1770-5_8) <br> [Krawiec *et al.*](https://dl.acm.org/doi/10.1145/2463372.2463483) <br> [Jin *et al.*](https://idea.edu.cn/person/guojian/assets/papers/BSR-2020.pdf) <br> [Petersen *et al.*](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 | 
 | Real-world | - | Penn Machine Learning <br> Benchmarks (PMLB) | [PMLB directory](https://epistasislab.github.io/pmlb/) | 122 | -|
 
-## Koza equations
-| <div style="width:100px">Dataset</div> | <div style="width:100px">Expression</div> | <div style="width:100px">Variables</div> | <div style="width:100px">Training data range</div> | <div style="width:100px">Reference</div> |
-| -------- | ------- | ------- | ------- | ------- |
+| <div style="width:100px">Dataset</div> | <div style="width:100px">Expression</div> | <div style="width:100px">Variables</div> | <div style="width:100px">Training data range</div> | 
+| -------- | ------- | ------- | ------- |
 | Koza-1 | $x^4 + x^3 + x^2 + x$ | 1 |  U[-1, 1, 20] |
 | Koza-2 | $x^5 - 2x^3 + x$	  | 1 | U[-1, 1, 20] |
 | Koza-3 | $x^6 - 2x^4 + x^2$    | 1 | U[-1, 1, 20] |
@@ -27,7 +26,7 @@ Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}
 | Keijzer-2 | $0.3 x \sin(2\pi x)$ | 1 | E[-2, 2, 0.1] |
 | Keijzer-3 | $0.3 x \sin(2\pi x)$ | 1 | E[-3, 3, 0.1] |
 | Keijzer-4 | $x^3e^{-x} \cos(x)\sin(x)(\sin^2(x)\cos(x)-1)$ | 1 | E[0, 10, 0.05] |
-| Keijzer-5 | $30xz/(x-10)y^2$ | $x,z:$ U[-1,1,1000]  $y:$ U[1,2,1000]|
+| Keijzer-5 | $30xz/(x-10)y^2$ | 3 | $x,z:$ U[-1,1,1000] <br> $y:$ U[1,2,1000]|
 | Keijzer-6 | $\sum_1^{x}i$ | 1 | E[1, 50, 1] |
 | Keijzer-7 | $\log x$ | 1 | E[1, 100, 1] |
 | Keijzer-8 | $\sqrt{x}$ | 1 | E[0, 100, 1] |
