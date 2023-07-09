@@ -121,8 +121,6 @@ This document provides a list of state-of-the-art methods, datasets, and applica
               <tr>
                   <td rowspan=10>Synthetic data</td>
                   <td rowspan=2>Physics</td>
-              </tr>
-              <tr>
                   <td>Physics equations</td>
                   <td>AIFeynman</td>
                   <td>120</td>
