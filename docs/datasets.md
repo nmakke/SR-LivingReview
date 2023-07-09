@@ -7,8 +7,8 @@ hide:
 Data sets, used for model training and testing, are categorized into two main groups:
 
 **Synthetic data**  for which the analytical form of the underlying model is known and used to generate data points. <br>
-This category includes equations from physical sciences, i.e., have physical interpretation and fulfill dimensional requirements <br>
-(units of both sides of an equation match), and pure mathematical expressions.   
+This category includes equations from physical sciences, i.e., have physical interpretation and fulfill dimensional <br> 
+requirements (units of both sides of an equation match), and pure mathematical expressions.   
 *Examples*:<br>
 $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}$ *for* $x \in [0,1]$ <br>
 $f(x) = Gm_1m_2/r^2$ where $[m_1]=[m_2]=$ Kilograms, $[r]=$ meter and $G$ is gravitational constant.<br>
