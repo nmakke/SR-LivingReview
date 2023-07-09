@@ -133,9 +133,8 @@ This document provides a list of state-of-the-art methods, datasets, and applica
               <tr>
                   <td rowspan=8>Mathematics</td>
                   <td rowspan=8>monomials, polynomials, <br> trigonometric, exponential, <br> logarithm, power law, etc.</td> 
-                  <!--<td>Koza</td><td>3</td>-->
+                  <td>Koza</td><td>3</td>
               </tr>
-              <tr><td>Koza</td><td>3</td></tr>
               <tr><td>Keijer</td><td>15</td></tr>
               <tr><td>Vladislavleva</td><td>8</td></tr>
               <tr><td>Nguyen</td><td>12</td></tr>
