@@ -131,13 +131,11 @@ This document provides a list of state-of-the-art methods, datasets, and applica
             <td>Physics equations</td>
             <td>AIFeynman</td>
             <td>120</td>
-            <td>[Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html)</td>
         </tr>
         <tr>
             <td>Ordinary differential equations</td>
             <td>L3 Strogatz</td>
             <td>10</td>
-            <td>[Strogatz repositery](https://williamlacava.com/ode-strogatz/)</td>
         </tr>
         <tr>
             <td rowspan=8>Mathematics</td>
