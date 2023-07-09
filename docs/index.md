@@ -129,7 +129,7 @@ This document provides a list of state-of-the-art methods, datasets, and applica
               </tr>
               <tr>
                   <td>Ordinary differential equations</td>
-                  <td>L3 Strogatz</td>
+                  <td>Strogatz</td>
                   <td>10</td>
               </tr>
               <tr>
