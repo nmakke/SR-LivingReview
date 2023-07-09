@@ -11,7 +11,7 @@ This category includes equations from physical sciences, i.e., have physical int
 (units of both sides of an equation match), and pure mathematical expressions.   
 *Examples*:<br>
 $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}$ *for* $x \in [0,1]$ <br>
-$f(x) = Gm_1m_2/r^2$ with $[m_1]=[m_2]=$ Kilograms and $[r]=$ meter and $G$ is gravitational constant.<br>
+$f(x) = Gm_1m_2/r^2$ where $[m_1]=[m_2]=$ Kilograms, $[r]=$ meter and $G$ is gravitational constant.<br>
 
 **Real-world data** for which the underlying model is unknown.<br>
 This category includes any type of data such as climate, economics, medical, etc.
