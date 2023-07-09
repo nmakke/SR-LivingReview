@@ -108,10 +108,55 @@ This document provides a list of state-of-the-art methods, datasets, and applica
      **Real-world data** for which the underlying model is unknown.<br>
      
     | Category | Underlying model   | Reference | Number of equations | year |
-    | -------- | ------- | ------- | ------- | ----- 
+    | -------- | ------- | ------- | ------- | ----- |
     | Physics | Ordinary differential equations <br> Physics equations (gravity, electromagnetic nuclear, etc. )| [Strogatz repositery](https://williamlacava.com/ode-strogatz/) <br> [Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html) | 10 <br> 120 | 2011 <br> 2019 |
     | <br> <br> <br> Mathematics | <br> <br> <br> monomials, polynomials, <br> trigonometric, exponential, etc.  | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
     | Real-world | NA | [Ref](https://epistasislab.github.io/pmlb/) | -| -|
+
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Category</th>
+            <th>Underlying model</th>
+            <th>Benchmarks</th>
+            <th>Number of equations</th>
+            <th>Reference </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=10>Synthetic data</td>
+            <td rowspan=2>Physics</td>
+            <td>Physics equations</td>
+            <td>AIFeynman</td>
+            <td>120</td>
+            <td>[Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html)</td>
+        </tr>
+        <tr>
+            <td>Ordinary differential equations</td>
+            <td>L3 Strogatz</td>
+            <td>10</td>
+            <td>[Strogatz repositery](https://williamlacava.com/ode-strogatz/)</td>
+        </tr>
+        <tr>
+            <td rowspan=8>Mathematics</td>
+            <td rowspan=8>monomials, polynomials, <br> trigonometric, exponential, <br> logarithm, power law, etc.</td> 
+            <td>Koza</td><td>3</td>
+        </tr>
+        <tr><td>Keijer</td><td>15</td></tr>
+        <tr><td>Vladislavleva</td><td>8</td></tr>
+        <tr><td>Nguyen</td><td>12</td></tr>
+        <tr><td>Korns</td><td>15</td></tr>
+        <tr><td>R</td><td>3</td></tr>
+        <tr><td>Jin</td><td>6</td></tr>
+        <tr><td>Livermore</td><td>22</td></tr>  
+        <tr>
+            <td rowspan=1>Real world data</td>
+            <td>economy, climate, commerce, etc.</td><td>NA</td>
+        </tr>
+    </tbody>
+</table>
 
 ??? "SR Applications in physics"
     <div class="meta_for_parser tablespecs"
