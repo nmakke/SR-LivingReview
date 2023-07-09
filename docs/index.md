@@ -121,6 +121,8 @@ This document provides a list of state-of-the-art methods, datasets, and applica
               <tr>
                   <td rowspan=10>Synthetic data</td>
                   <td rowspan=2>Physics</td>
+              </tr>
+              <tr>
                   <td>Physics equations</td>
                   <td>AIFeynman</td>
                   <td>120</td>
@@ -180,4 +182,5 @@ This document provides a list of state-of-the-art methods, datasets, and applica
     </div>
     
       * [Interpretable Scientific Discovery with Symbolic Regression: A Review](https://arxiv.org/pdf/2211.10873.pdf)
+
       
