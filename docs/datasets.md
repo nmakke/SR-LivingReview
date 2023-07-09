@@ -10,7 +10,7 @@ Data sets, used for model training and test, are categorized into two main group
 This category includes equations from physical sciences, i.e., have physical interpretation and fulfill dimensional requirements (units of both sides of an equation match), and pure mathematical expressions.   
 Examples:<br>
 Mathematical: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}$ *for* $x \in [0,1]$ <br>
-Physical: $f(x) = Gm_1m_2/r^2$ with $[m_1]=[m_2]=$Kilograms and $[r]$=meter and $G$ is gravitational constant.<br>
+Physical: $f(x) = Gm_1m_2/r^2$ with $[m_1]=[m_2]=$ Kilograms and $[r]=$ meter and $G$ is gravitational constant.<br>
 
 **Real-world data** for which the underlying model is unknown.<br>
 This category includes any type of data such as climate, economics, medical, etc.
