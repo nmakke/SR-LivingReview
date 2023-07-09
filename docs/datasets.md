@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-Data sets, used for model training and test, are categorized into two main groups:
+Data sets, used for model training and testing, are categorized into two main groups:
 
 **Synthetic data**  for which the analytical form of the underlying model is known and used to generate data points. <br>
 This category includes equations from physical sciences, i.e., have physical interpretation and fulfill dimensional requirements <br>
