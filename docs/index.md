@@ -121,7 +121,6 @@ This document provides a list of state-of-the-art methods, datasets, and applica
             <th>Underlying model</th>
             <th>Benchmarks</th>
             <th>Number of equations</th>
-            <th>Reference </th>
         </tr>
     </thead>
     <tbody>
@@ -151,7 +150,10 @@ This document provides a list of state-of-the-art methods, datasets, and applica
         <tr><td>Livermore</td><td>22</td></tr>  
         <tr>
             <td rowspan=1>Real world data</td>
-            <td>economy, climate, commerce, etc.</td><td>NA</td>
+            <td>economy, climate, commerce, etc.</td>
+            <td>NA</td>
+            <td>Penn Machine Learning Benchmarks</td>
+            <td>419</td>
         </tr>
     </tbody>
 </table>
