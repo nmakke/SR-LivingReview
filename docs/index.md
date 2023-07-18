@@ -104,7 +104,7 @@ This document provides a list of state-of-the-art methods, datasets, and applica
     **Synthetic data**  for which the analytical form of the underlying model is known and used to generate data points. <br>
     Example: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$ for $x \in [0,1]$
 
-     **Real-world data** for which the underlying model is unknown.<br>
+     **Real-world data** for which underlying models are unknown.<br>
      
       <table>
           <thead>
