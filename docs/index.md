@@ -6,7 +6,7 @@ hide:
 
 # **A Living Review of Symbolic Regression**
 
-Symbolic regression (SR) is a rapidly growing subfield of machine learning aiming to learn the analytical form of models that underlie data by searching the space of mathematical expressions. A growing interest in SR is taking place in the AI community because it is interpretable, i.e., it infers a transparent relationship between the input ($\mathbf{x}$) and the output ($f(\mathbf{x})$), allowing for reasoning in contrast to blackbox models learned by neural networks (NNs) where the input-output relationship is opaque. 
+Symbolic regression (SR) is a rapidly growing subfield of machine learning aiming to learn the analytical form of models that underlie data by searching the space of mathematical expressions. A growing interest in SR is taking place in the AI community because it is interpretable, i.e., it infers a transparent relationship between the input ($\mathbf{x}$) and the output ($f(\mathbf{x})$), allowing for reasoning in contrast to blackbox models learned by neural networks (NNs) where the input-output relationship is opaque and untraceable. 
 
 This document provides a list of state-of-the-art methods, datasets, and applications of symbolic regression as part of the review entitled ***Interpretable Scientific Discovery with Symbolic Regression: A Review***. The goal is to list all research works on symbolic regression, so *this list will continue to evolve*. This living review was proposed in the mentioned review in analogy with HEP ML Living Review ([link](https://iml-wg.github.io/HEPML-LivingReview/)).
 
