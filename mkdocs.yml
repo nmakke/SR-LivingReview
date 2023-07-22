@@ -10,6 +10,7 @@ nav:
     - About: sr.md
     - Methods: methods.md
     - Datasets: datasets.md
+    - Ressources: ressources.md
     - Cite: cite.md
 
 plugins:
