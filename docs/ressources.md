@@ -6,7 +6,7 @@ hide:
 
 This directory includes ready-to-use packages of symbolic regression and useful online ressources.
 
-| <div style="width:140px">Method</div> | <div style="width:200px">Category</div> | <div style="width:140px">Code</div> | <div style="width:180px">Year</div> |<div style="width:300px">Brief description</div> |
+| <div style="width:130px">Method</div> | <div style="width:130px">Category</div> | <div style="width:130px">Code</div> | <div style="width:130px">Year</div> |<div style="width:300px">Brief description</div> |
 | ---- | ------- | --- | --- | --- |
 | SINDY | Linear SR | [URL]() | xx | Formulates the SR problem as a system of linear equations and learns the coefficients of candidate functions |
 | SINDY_AE | DL | [URL]() | xx | |
