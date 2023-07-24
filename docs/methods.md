@@ -78,8 +78,8 @@ Below you find the list of SR methods for each category.
     * [Neural Symbolic Regression that Scales](https://arxiv.org/abs/2106.06427) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales) (NeSymReS)
     * [A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt) (SymbolicGPT)
     * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP) (SYMBA)
-    * [Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search](https://arxiv.org/pdf/2302.11223.pdf) DGSR-MCTS
-    * [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336v1.pdf) NSRwH
+    * [Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search](https://arxiv.org/pdf/2302.11223.pdf) (DGSR-MCTS)
+    * [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336v1.pdf) (NSRwH)
 
 ## Other SR approaches
 
