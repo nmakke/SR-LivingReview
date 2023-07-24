@@ -18,5 +18,6 @@ This directory includes ready-to-use packages of symbolic regression and useful 
 | DSR | RL | [URL]() | xx | |
 | NeSymReS | DL (TNN) | [URL]() | xx | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned.|
 | E2E | DL (TNN) | [URL]() | xx | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned. |
-| SYMBA | DL (TNN) | [URL]() | xx | |
-| $\phi$-SO | DL (RL) | [URL]() | xx | A RNN that uses reinforcement learning to |
+| SYMBA | DL (TNN) | [URL](https://github.com/ML4SCI/SYMBAHEP) | 2022 | |
+| $\phi$-SO | DL (RL) | [URL](https://github.com/WassimTenachi/PhySO/tree/main) | 2023 | A RNN that uses reinforcement learning to |
+| AIFeynman | | [URL](https://github.com/SJ001/AI-Feynman) | 2019 | A physics-informed SR method that uses NN to learn symmetries in data (translational, rotational, vibrational) to simply the global SR problem into simpler SR subproblems. |
