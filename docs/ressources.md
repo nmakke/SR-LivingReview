@@ -8,13 +8,13 @@ This directory includes ready-to-use packages of symbolic regression and useful 
 
 | <div style="width:140px">Method</div> | <div style="width:200px">Category</div> | <div style="width:300px">Brief description</div> | <div style="width:180px">Code</div> |
 | ---- | ------- | --- | --- |
-| SINDY |  | | [URL]() |
+| SINDY | Formulates the SR problem as a system of linear equations and learns the coefficients of candidate functions | | [URL]() |
 | SINDYAE |   | | [URL]() |
 | EQL | DL (NN) | Consists of a fully-differentiable shallow neural network whose activation functions are algebraic operators and analytical functions instead of traditional activation functions (e.g., sigmoid, relu, softmax). | [URL]() |
 | EQL$\div$ | DL (NN) | This is an extendable version of EQL that includes the division operator | [URL]() |
 | Eureqa | GP | It is a closed-source code that uses genetic programming | [URL]() |
 | PySR | GP |  | [URL]() |
-| gplearn | GP | | [URL]() |
+| gplearn | GP | Koza-style symbolic regression in python.| [URL]() |
 | DSR | RL | | [URL]() |
 | NeSymReS | DL (TNN) | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned. | [URL]() |
 | E2E | DL (TNN) | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned. | [URL]() |
