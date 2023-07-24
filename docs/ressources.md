@@ -6,10 +6,10 @@ hide:
 
 This directory includes ready-to-use packages of symbolic regression and useful online ressources.
 
-| <div style="width:140px">Method</div> | <div style="width:200px">Category</div> | <div style="width:300px">Brief description</div> | <div style="width:180px">Code</div> |
-| ---- | ------- | --- | --- |
+| <div style="width:140px">Method</div> | <div style="width:200px">Category</div> | <div style="width:140px">Code</div> | <div style="width:180px">Year</div> |<div style="width:300px">Brief description</div> |
+| ---- | ------- | --- | --- | --- |
 | SINDY | Linear SR | Formulates the SR problem as a system of linear equations and learns the coefficients of candidate functions | | [URL]() |
-| SINDYAE |   | | [URL]() |
+| SINDY_AE |   | | [URL]() |
 | EQL | DL (NN) | Consists of a fully-differentiable shallow neural network whose activation functions are algebraic operators and analytical functions instead of traditional activation functions (e.g., sigmoid, relu, softmax). | [URL]() |
 | EQL$\div$ | DL (NN) | This is an extendable version of EQL that includes the division operator | [URL]() |
 | Eureqa | GP | It is a closed-source code that uses genetic programming | [URL]() |
