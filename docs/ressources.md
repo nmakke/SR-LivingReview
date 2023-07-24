@@ -1,11 +1,12 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 This directory includes ready-to-use packages of symbolic regression and useful online ressources.
 
-| <div style="width:140px">Method</div> | <div style="width:200px">Category</div> | <div style="width:220px">Brief description</div> | <div style="width:180px">Code</div> |
+| <div style="width:140px">Method</div> | <div style="width:200px">Category</div> | <div style="width:300px">Brief description</div> | <div style="width:180px">Code</div> |
 | ---- | ------- | --- | --- |
 | SINDY |  | | [URL]() |
 | SINDYAE |   | | [URL]() |
