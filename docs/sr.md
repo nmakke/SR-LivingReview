@@ -3,7 +3,9 @@
     - navigation
 ---
 
-Some text vbefore 
+- SR has been introduced by Gerwin D., Langley P., and Falkenhainer B.C. in independent research works back in 1970 aiming to redicsicover empirical laws.
+- 
+
 
 # SR Problem definition
 
