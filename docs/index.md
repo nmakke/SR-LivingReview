@@ -10,7 +10,7 @@ hide:
 
 *This document provides a categorized list of state-of-the-art methods, datasets, and applications of SR as part of the review entitled ***Interpretable Scientific Discovery with Symbolic Regression: A Review***, which provides a technical and unified review of several research works on SR. This document's goal to list all research works so this list will continue to evolve. This living review was proposed in the mentioned review in analogy with HEP ML Living Review ([link](https://iml-wg.github.io/HEPML-LivingReview/)).*
 
-*We aim to create a complete and unified database of materials on SR (research papers, open-source codes, datasets, useful online resources, etc.) among different communities. *
+**We aim to create a complete and unified database of materials on SR (research papers, open-source codes, datasets, useful online resources, etc.) among different communities. **
 
 <!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
 
