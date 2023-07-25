@@ -21,7 +21,7 @@ This directory includes ready-to-use packages of symbolic regression and useful 
       | gplearn | EA | [URL](https://gplearn.readthedocs.io/en/stable/intro.html#transformer) | Pyhton | - | Koza-style symbolic regression in python. It includes a **SymbolicRegressor**, **SymbolicClassifier**, and **SymbolicTransformer** for different tasks. |
       | Operon | EA | [URL](https://github.com/heal-research/operon)
       |
-      | DSR | RL | [URL](https://github.com/brendenpetersen/deep-symbolic-optimization) | Pyhton  | 2021 | Consists of a generative RNN model of symbolic expressions trained using reinforcement learning. |
+      | DSR | Mix | [URL](https://github.com/brendenpetersen/deep-symbolic-optimization) | Pyhton  | 2021 | Consists of a generative RNN model of symbolic expressions trained using reinforcement learning. |
       | NeSymReS | DL (TNN) | [URL](https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales/tree/main) | Pyhton | 2021 | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned.|
       | E2E | DL (TNN) | [URL](https://github.com/pakamienny/e2e_transformer/tree/main) | Pyhton | 2022 | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned. |
       | $\phi$-SO | DL (RL) | [URL](https://github.com/WassimTenachi/PhySO/tree/main) | Python | 2023 | Consists of a generative RNN model of symbolic expressions trained using reinforcement learning (DSR method) while fully leveraging physical units (of measurement) constraints in the search space at two levels, external (*in situ physical units constraints*) and internal (during RNN training).|
