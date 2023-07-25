@@ -3,8 +3,8 @@
     - navigation
 ---
 
-- SR has been introduced by Gerwin D., Langley P., and Falkenhainer B.C. in independent research works back in 1970 aiming to redicsicover empirical laws.
-- 
+- SR has been introduced by Gerwin D., Langley P., and Falkenhainer B.C. in independent research works back in 1970 aiming to redisccover empirical laws.
+- At a later stage, SR was proposed by Koza as an evolutionary algorithm that represents mathematical expressions as unary-binary trees. 
 
 
 # SR Problem definition
