@@ -19,8 +19,7 @@ This directory includes ready-to-use packages of symbolic regression and useful 
       | Eureqa | EA | [URL]() | | 2009 | It is a closed-source code that uses genetic programming to learn mathematical expressions. It was developed in 2009 and popularized as the scientific discovery machinery but dismisses his mission.|
       | PySR | EA | [URL](https://github.com/MilesCranmer/PySR)  | Pyhton/Julia | 2023 | Fast and parallelized symbolic regression in Python/Julia based on evolutionary algorithms (EA). Treats mathematical expressions as trees and use tournament selection.  |
       | gplearn | EA | [URL](https://gplearn.readthedocs.io/en/stable/intro.html#transformer) | Pyhton | - | Koza-style symbolic regression in python. It includes a **SymbolicRegressor**, **SymbolicClassifier**, and **SymbolicTransformer** for different tasks. |
-      | Operon | EA | [URL](https://github.com/heal-research/operon)
-      |
+      | Operon | EA | [URL](https://github.com/heal-research/operon) | C++ | 2020 | GP-based | 
       | DSR | Mix | [URL](https://github.com/brendenpetersen/deep-symbolic-optimization) | Pyhton  | 2021 | Consists of a generative RNN model of symbolic expressions trained using reinforcement learning. |
       | NeSymReS | DL (TNN) | [URL](https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales/tree/main) | Pyhton | 2021 | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned.|
       | E2E | DL (TNN) | [URL](https://github.com/pakamienny/e2e_transformer/tree/main) | Pyhton | 2022 | A pre-trained transformer that predicts SR models directly from the data. Predicted models are then fine-tuned and the best is returned. |
