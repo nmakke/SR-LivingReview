@@ -6,7 +6,7 @@ hide:
 
 This directory includes ready-to-use packages of symbolic regression and useful online resources.
 
-???+ note "Ready-to-use packages"
+???+ note "Open source codes"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
     ###  Genetic programming
