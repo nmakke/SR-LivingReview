@@ -24,7 +24,7 @@ hide:
     ##  SR Methods
     </div>
 
-    ### Regression-based
+<!--    ### Regression-based
         
     ??? note "Linear approach"
           
@@ -39,7 +39,7 @@ hide:
           * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
           * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
           * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
-
+-->
     ### Expression tree-based
     
     ??? note "Genetic programming (GP)"
