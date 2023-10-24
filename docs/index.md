@@ -18,7 +18,7 @@ hide:
 
 [![download](https://img.shields.io/badge/download-review-blue.svg)](https://arxiv.org/pdf/2211.10873.pdf)
 
-??? note "SR Methods"
+???+ note "SR Methods"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
     ##  SR Methods
