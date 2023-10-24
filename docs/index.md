@@ -33,7 +33,7 @@ hide:
     | Mathematics-inspired| This method uses the Meijer functions | General mathematical function | parameters of the Meijer functions |
 
 
-??? note "SR Datasets"
+???+ note "SR Datasets"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
     ##  SR Datasets
