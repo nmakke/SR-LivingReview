@@ -25,14 +25,32 @@ hide:
     </div>
 
     sections starts here 
-
+  
+          <table>
+          <thead>
+              <tr>
+                  <th>Category</th>
+                  <th>Description</th>
+                  <th>Methods</th>
+                  <th>Learned model</th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td rowspan=10>Synthetic data</td>
+              </tr>
+              <tr>
+                  <td rowspan=1>Real world data</td>
+              </tr>
+          </tbody>
+      </table>
     
-  | <div style="width:140px">Category</div> | <div style="width:200px">Brief description</div> | <div style="width:220px">Underlying methods</div> | <div style="width:180px">learned model</div> |
-  | ---- | ------- | --- | --- |
-  | Regression-based | This category presumes the model structure is a linear combination of non-linear functions. The linear method formulates the SR problem as a system of linear equations, whereas the non-linear method relies on a multi-layer perceptron (MLP). In both cases parameters are learned. | Linear SR (sparse regression) <br> Non-linear SR | System of linear equations <br> Multi-Layer Perceptron (MLP) |
-  | Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators, analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |
-  | Physics-inspired | This category takes into account the units of measurements of physical variables (so-called dimensional analysis) to constraint the search space | Deep learning <br> polynomial fit <br> brute force search | Neural network parameters <br> polynomial coefficients |
-  | Mathematics-inspired| This method uses the Meijer functions | General mathematical function | parameters of the Meijer functions |
+    | <div style="width:140px">Category</div> | <div style="width:200px">Brief description</div> | <div style="width:220px">Underlying methods</div> | <div style="width:180px">learned model</div> |
+    | ---- | ------- | --- | --- |
+    | Regression-based | This category presumes the model structure is a linear combination of non-linear functions. The linear method formulates the SR problem as a system of linear equations, whereas the non-linear method relies on a multi-layer perceptron (MLP). In both cases parameters are learned. | Linear SR (sparse regression) <br> Non-linear SR | System of linear equations <br> Multi-Layer Perceptron (MLP) |
+    | Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators, analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |
+    | Physics-inspired | This category takes into account the units of measurements of physical variables (so-called dimensional analysis) to constraint the search space | Deep learning <br> polynomial fit <br> brute force search | Neural network parameters <br> polynomial coefficients |
+    | Mathematics-inspired| This method uses the Meijer functions | General mathematical function | parameters of the Meijer functions |
 
 
 ???+ note "SR Datasets"
