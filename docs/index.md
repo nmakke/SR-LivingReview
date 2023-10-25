@@ -24,26 +24,6 @@ hide:
     ##  SR Methods
     </div>
 
-    sections starts here 
-  
-          <table>
-          <thead>
-              <tr>
-                  <th>Category</th>
-                  <th>Description</th>
-                  <th>Methods</th>
-                  <th>Learned model</th>
-              </tr>
-          </thead>
-          <tbody>
-              <tr>
-                  <td rowspan=10>Synthetic data</td>
-              </tr>
-              <tr>
-                  <td rowspan=1>Real world data</td>
-              </tr>
-          </tbody>
-      </table>
     
     | <div style="width:140px">Category</div> | <div style="width:200px">Brief description</div> | <div style="width:220px">Underlying methods</div> | <div style="width:180px">learned model</div> |
     | ---- | ------- | --- | --- |
