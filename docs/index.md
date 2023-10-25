@@ -90,22 +90,15 @@ hide:
               </tr>
           </tbody>
       </table>
-
-??? note "Benchmarks"
-    <div class="meta_for_parser tablespecs"
-    style="font-size: 1pt;visibility:hidden" markdown>
-    ##  Benchmarks
-    </div>
     
-      * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
-      
-??? note "Reviews"
+??? note "Reviews and Benchmarks"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
     ##  Reviews
     </div>
     
       * [Interpretable Scientific Discovery with Symbolic Regression: A Review](https://arxiv.org/pdf/2211.10873.pdf)
+      * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
 
 ??? "SR Applications in physics"
     <div class="meta_for_parser tablespecs"
