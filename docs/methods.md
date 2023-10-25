@@ -18,29 +18,35 @@ Below you find the list of SR methods for each category.
 <!--| Mathematics-inspired| This method uses the Meijer functions | General mathematical function | parameters of the Meijer functions |-->
 
 ## Regression-based SR
-  
-???+ note "Linear approach"
+
+???+ note "Regression-based SR"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
     ###  Linear approach
     </div>
     
-    * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
-    * [Sparse identification of nonlinear dynamics for rapid model recovery](https://arxiv.org/pdf/1803.00894.pdf) [[DOI]](https://pubs.aip.org/aip/cha/article/28/6/063116/1059339/Sparse-identification-of-nonlinear-dynamics-for)
-    * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY_AE)
-    
-???+ note "Non-linear approaches"
-    <div class="meta_for_parser tablespecs"
-    style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Non-linear approach
-    </div>
-    
-    * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman) (AIFeynman)
-    * [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/pdf/1912.04825.pdf)
-    * [Symbolic regression for scientific discovery: an application to wind speed forecasting](https://arxiv.org/pdf/2102.10570.pdf)
-    * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
-    * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
-    * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL$_\div$)
+    ???+ note "Linear approach"
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Linear approach
+        </div>
+        
+        * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
+        * [Sparse identification of nonlinear dynamics for rapid model recovery](https://arxiv.org/pdf/1803.00894.pdf) [[DOI]](https://pubs.aip.org/aip/cha/article/28/6/063116/1059339/Sparse-identification-of-nonlinear-dynamics-for)
+        * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY_AE)
+        
+    ???+ note "Non-linear approaches"
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Non-linear approach
+        </div>
+        
+        * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman) (AIFeynman)
+        * [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/pdf/1912.04825.pdf)
+        * [Symbolic regression for scientific discovery: an application to wind speed forecasting](https://arxiv.org/pdf/2102.10570.pdf)
+        * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
+        * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
+        * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL$_\div$)
 
 ## Expression tree-based SR
 
