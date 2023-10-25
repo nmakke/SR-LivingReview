@@ -11,6 +11,7 @@ nav:
     - Methods: methods.md
     - Datasets: datasets.md
     - Ressources: ressources.md
+    - SR Meets Physics: srphysics.md
     - Cite: cite.md
 
 plugins:
