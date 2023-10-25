@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-Symbolic regression (SR) methods are grouped into different categories to be most useful, as summarized in the table.<br>
+SR methods are grouped into different categories to be most useful, as summarized in the table.
 Below you find the list of SR methods for each category.
 <!--**Regression-based** SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.<be>-->
 <!-- ´**Expression tree-based** SR methods treat mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR.<br>-->
@@ -11,7 +11,7 @@ Below you find the list of SR methods for each category.
 
 <!-- | Category | Description | Methods | learned model |-->
 <!--| <div style="width:140px">Category</div> | <div style="width:200px">Brief description</div> | <div style="width:220px">Underlying methods</div> | <div style="width:180px">learned model</div> |-->
-<!--| ---- | ------- | --- | --- |-->-->
+<!--| ---- | ------- | --- | --- |-->
 <!--| Regression-based | This category assumes a predefined model structure. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on a multi-layer perceptron (MLP) to solve it. In both cases parameters are learned. | Linear SR (sparse regression) <br> Non-linear SR | System of linear equations <br> Multi-Layer Perceptron (MLP) |
 <!--| Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators, analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |-->
 <!--| Physics-inspired | This category takes into account the units of measurements of physical variables (so-called dimensional analysis) to constraint the search space | Deep learning <br> polynomial fit <br> brute force search | Neural network parameters <br> polynomial coefficients |-->
