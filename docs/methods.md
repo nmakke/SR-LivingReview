@@ -3,8 +3,9 @@ hide:
   - navigation
 ---
 
-SR methods are grouped into different categories to be most useful, as summarized in the table.
-Below you find the list of SR methods for each category.
+SR methods are grouped into different categories to be most useful. A minimal number of categories is chosen in order to be as simple and useful as possible.
+SR methods are listed for each category.
+
 <!--**Regression-based** SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.<be>-->
 <!-- ´**Expression tree-based** SR methods treat mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR.<br>-->
 <!--  **Other SR approaches** category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.-->
@@ -43,7 +44,7 @@ Below you find the list of SR methods for each category.
     * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
     * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL$_\div$)
 
-### Expression tree-based SR"
+### Expression tree-based SR
     
 ???+ note "Genetic programming"
     <div class="meta_for_parser tablespecs"
