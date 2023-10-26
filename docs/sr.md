@@ -27,7 +27,7 @@ Three components are required to solve the SR problem:
 - SR is an NP-hard problem  (Virgolin & Pissis 2022).
 The number of mathematical expressions grows exponentially with the number of features.
 Suppose the target analytic expression has a length of 35 symbols and that the library consists of 15 different variables or operations (e.g., x, +, −, ×, /,sin, log, ...) to choose from for each symbol.
-A naive brute-force attempt to fit the dataset might then have to consider up to $15^{30]=1.9 10^{35}$ trial solutions, which is obviously very challenging.
+A naive brute-force attempt to fit the dataset might then have to consider up to $15^{30}=1.9 10^{35}$ trial solutions, which is obviously very challenging.
 The obvious conclusion one draws from these considerations is that symbolic regression requires one to develop highly efficient strategies to prune poor guesses.
 
 - Discrete nature of its search space
