@@ -20,10 +20,9 @@ Below you find the list of SR methods for each category.
 ???+ note "Regression-based SR"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Linear approach
     </div>
     
-    ???+ note "Linear approach"
+    ???+ note "Linear approaches"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
         ###  Linear approach
