@@ -63,7 +63,7 @@ SR methods are listed for each category.
 ???+ note "Reinforcement learning"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Reinforcement learning
+    ###  Reinforcement learning (RL-based)
     </div>
 
     * [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://arxiv.org/abs/1912.04871) [[DOI]](https://openreview.net/forum?id=m5Qsh0kBQG) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization)(DSR)
@@ -73,7 +73,7 @@ SR methods are listed for each category.
 ???+ note "Transformer neural network"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Transformer neural network
+    ###  Transformer neural network (TNN-based)
     </div>
 
     * [End-to-end symbolic regression with transformers](https://arxiv.org/abs/2204.10532) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/facebookresearch/symbolicregression) (E2ET)
