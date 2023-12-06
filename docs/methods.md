@@ -58,7 +58,7 @@ SR methods are listed for each category.
        * Improving Symbolic Regression with Interval Arithmetic and Linear Scaling [[DOI]](https://link.springer.com/chapter/10.1007/3-540-36599-0_7)
        * Accuracy in Symbolic Regression [[DOI]](https://link.springer.com/chapter/10.1007/978-1-4614-1770-5_8)
        * Semantically-based crossover in genetic programming: application to real-valued symbolic regression [[DOI]](https://link.springer.com/article/10.1007/s10710-010-9121-2)
-       * Rethinking Symbolic Regression: Morphology and adaptability for evolutionary algorithms [[DOI]](https://openreview.net/pdf?id=OPGy07PojsZ)ß
+       * Rethinking Symbolic Regression: Morphology and adaptability for evolutionary algorithms [[DOI]](https://openreview.net/pdf?id=OPGy07PojsZ)
 
 ???+ note "Reinforcement learning"
     <div class="meta_for_parser tablespecs"
