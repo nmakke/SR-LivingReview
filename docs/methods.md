@@ -83,6 +83,7 @@ SR methods are listed for each category.
     * [Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search](https://arxiv.org/pdf/2302.11223.pdf) (DGSR-MCTS)
     * [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336v1.pdf) (NSRwH)
     * A Transformer Model for symbolic regression towards scientific discovery [[DOI]](https://openreview.net/pdf?id=AIfqWNHKjo)
+    * [ODEFROMER: Symbolic regression of dynamical systems with transformer](https://arxiv.org/pdf/2310.05573.pdf)[[DOI]](https://openreview.net/pdf?id=TzoHLiGVMo)
     
 
 ### Other SR approaches
