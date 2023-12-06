@@ -45,10 +45,10 @@ SR methods are listed for each category.
 
 ## Expression tree-based SR
     
-???+ note "Genetic programming"
+???+ note "Genetic programming (GP-based SR)"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Genetic programming (GP-based)
+    ###  Genetic programming
     </div>
 
        * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
@@ -60,20 +60,20 @@ SR methods are listed for each category.
        * Semantically-based crossover in genetic programming: application to real-valued symbolic regression [[DOI]](https://link.springer.com/article/10.1007/s10710-010-9121-2)
        * Rethinking Symbolic Regression: Morphology and adaptability for evolutionary algorithms [[DOI]](https://openreview.net/pdf?id=OPGy07PojsZ)
 
-???+ note "Reinforcement learning"
+???+ note "Reinforcement learning (RL-based SR)"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Reinforcement learning (RL-based)
+    ###  Reinforcement learning
     </div>
 
     * [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://arxiv.org/abs/1912.04871) [[DOI]](https://openreview.net/forum?id=m5Qsh0kBQG) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization)(DSR)
     * [Symbolic Regression via Neural-Guided Genetic Programming Population Seeding](https://arxiv.org/abs/2111.00053) [[DOI]](https://proceedings.neurips.cc/paper/2021/hash/d073bb8d0c47f317dd39de9c9f004e9d-Abstract.html)[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization) (DSR)
     * [Physical Symbolic Optimization](https://arxiv.org/pdf/2303.03192.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/WassimTenachi/PhySO/tree/main) ($\phi$-SO)
     
-???+ note "Transformer neural network"
+???+ note "Transformer neural network (TNN-based SR)"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Transformer neural network (TNN-based)
+    ###  Transformer neural network
     </div>
 
     * [End-to-end symbolic regression with transformers](https://arxiv.org/abs/2204.10532) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/facebookresearch/symbolicregression) (E2ET)
