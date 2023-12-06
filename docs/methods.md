@@ -3,8 +3,8 @@ hide:
   - navigation
 ---
 
-SR methods are grouped into different categories to be most useful. A minimal number of categories is chosen in order to be as simple and useful as possible.
-SR methods are listed for each category.
+*SR methods are grouped into different categories to be most useful. A minimal number of categories is chosen in order to be as simple and useful as possible.*
+*SR methods are listed for each category.*
 
 <!--**Regression-based** SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.<be>-->
 <!-- ´**Expression tree-based** SR methods treat mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR.<br>-->
