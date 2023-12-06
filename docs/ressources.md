@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-This directory includes ready-to-use packages of symbolic regression and useful online resources.
+This directory includes open source codes of SR methods and useful online resources.
 
 ???+ note "Open source codes"
     <div class="meta_for_parser tablespecs"
