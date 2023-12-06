@@ -17,8 +17,7 @@ SR methods are listed for each category.
 <!--| Expression tree-based | This category treats mathematical equations as unary-binary trees whose internal nodes are mathematical operators (algebraic operators, analytical functions) and terminal nodes are constants and state variables. | Genetic programming (GP) <br> Reinforcement learning (RL) <br> Transformer neural network (TNN) | Tree structure <br> Policy <br> Seq2seq models |-->
 <!--| Physics-inspired | This category takes into account the units of measurements of physical variables (so-called dimensional analysis) to constraint the search space | Deep learning <br> polynomial fit <br> brute force search | Neural network parameters <br> polynomial coefficients |-->
 <!--| Mathematics-inspired| This method uses the Meijer functions | General mathematical function | parameters of the Meijer functions |-->
-
-
+ 
 ### Regression-based
 
 ???+ note "Linear approaches"
