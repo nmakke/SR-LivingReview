@@ -48,7 +48,7 @@ SR methods are listed for each category.
 ???+ note "Genetic programming"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Genetic programming
+    ###  Genetic programming (GP-based)
     </div>
 
        * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
