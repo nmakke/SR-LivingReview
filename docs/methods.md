@@ -58,7 +58,7 @@ SR methods are listed for each category.
        * Improving Symbolic Regression with Interval Arithmetic and Linear Scaling [[DOI]](https://link.springer.com/chapter/10.1007/3-540-36599-0_7)
        * Accuracy in Symbolic Regression [[DOI]](https://link.springer.com/chapter/10.1007/978-1-4614-1770-5_8)
        * Semantically-based crossover in genetic programming: application to real-valued symbolic regression [[DOI]](https://link.springer.com/article/10.1007/s10710-010-9121-2)
-       * Rethinking Symbolic Regression: Morphology and adaptability for evolutionary algorithms (https://openreview.net/pdf?id=OPGy07PojsZ)ß
+       * Rethinking Symbolic Regression: Morphology and adaptability for evolutionary algorithms [[DOI]](https://openreview.net/pdf?id=OPGy07PojsZ)ß
 
 ???+ note "Reinforcement learning"
     <div class="meta_for_parser tablespecs"
@@ -82,7 +82,7 @@ SR methods are listed for each category.
     * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP) (SYMBA)
     * [Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search](https://arxiv.org/pdf/2302.11223.pdf) (DGSR-MCTS)
     * [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336v1.pdf) (NSRwH)
-    * [A Transformer Model for symbolic regression towards scientific discovery](https://openreview.net/pdf?id=AIfqWNHKjo)
+    * A Transformer Model for symbolic regression towards scientific discovery [[DOI]](https://openreview.net/pdf?id=AIfqWNHKjo)
     
 
 ### Other SR approaches
