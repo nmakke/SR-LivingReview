@@ -86,7 +86,7 @@ SR methods are listed for each category.
     * [ODEFormer: Symbolic regression of dynamical systems with transformer](https://arxiv.org/pdf/2310.05573.pdf) [[DOI]](https://openreview.net/pdf?id=TzoHLiGVMo)[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/sdascoli/odeformer) (ODEFormer)
     
 
-### Other SR approaches
+## Other SR approaches
     
 ???+ note "Physics-inspired"
     <div class="meta_for_parser tablespecs"
