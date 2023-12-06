@@ -18,7 +18,7 @@ SR methods are listed for each category.
 <!--| Physics-inspired | This category takes into account the units of measurements of physical variables (so-called dimensional analysis) to constraint the search space | Deep learning <br> polynomial fit <br> brute force search | Neural network parameters <br> polynomial coefficients |-->
 <!--| Mathematics-inspired| This method uses the Meijer functions | General mathematical function | parameters of the Meijer functions |-->
  
-### Regression-based
+### Regression-based SR
 
 ???+ note "Linear approaches"
     <div class="meta_for_parser tablespecs"
