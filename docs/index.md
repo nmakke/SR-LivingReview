@@ -30,7 +30,7 @@ hide:
 ???+ note "Summary of SR Methods"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ##  SR Methods
+    ##  Summary of SR Methods
     </div>
 
     
@@ -45,7 +45,7 @@ hide:
 ???+ note "Summary of SR Datasets"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ##  SR Datasets
+    ##  Summary of SR Datasets
     </div>
     
     Data sets ($\mathcal{D}$) are categorized into two main groups:
