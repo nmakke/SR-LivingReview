@@ -40,7 +40,7 @@ Data sets, used for model training and testing, are categorized into two main gr
     * Expression Sampler as a Dynamic Benchmark for Symbolic Regression [[DOI]](https://openreview.net/pdf?id=i3PecpoiPG) 2023 
     
 
-???+ note "Examples of mathematical equations"
+??? note "Examples of mathematical equations"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
     ###  Linear approach
