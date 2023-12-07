@@ -11,10 +11,11 @@ Data sets, used for model training and testing, are categorized into two main gr
     style="font-size: 1pt;visibility:hidden" markdown>
     </div>
     
-    For synthetic data, the analytical form of underlying models is known and used to generate data points. This category includes physics equations which are constrained by physical units. <br>
+    For synthetic problems, the analytical form of underlying models is known and used to generate data points. 
+    This category includes physics equations which are constrained by physical units. <br>
     *Examples*:<br>
-    mathematical equation: $f(x) = 2x^2 + \cos(x) \rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}$ *for* $x \in [0,1]$ <br>
-    physical equation $f(x) = Gm_1m_2/r^2$ where $[m_1]=[m_2]=$ Kilograms, $[r]=$ meter and $G$ is gravitational constant.<br>
+    **mathematical equation**: $f(x) = 2x^2 + \cos(x) <!--\rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}$ *for* $x \in [0,1]$ <br>-->
+    **physical equation**: $f(x) = Gm_1m_2/r^2$ with $[m_1]=[m_2]=$ Kilograms, $[r]=$ meter and $G$ is gravitational constant.<br>
     
     | <div style="width:100px">Category</div> | <div style="width:120px">Underlying model</div> | <div style="width:120px">Benchmark name</div> | <div style="width:100px">Reference</div> | <div style="width:100px">problems</div> | <div style="width:100px">year</div> |
     | -------- | ------- | ------- | ------- | ----- | ----- | 
@@ -26,8 +27,9 @@ Data sets, used for model training and testing, are categorized into two main gr
     style="font-size: 1pt;visibility:hidden" markdown>
     </div>
 
-    **Real-world data** for which the underlying model is unknown.<br>
-    This category includes any type of data such as climate, economics, medical, etc. Well known repository is the Penn Machine Learning benchmark in the [PMLB directory](https://epistasislab.github.io/pmlb/).
+    For real-world problems, the underlying model is fully unknown.<br>
+    This category includes any type of data such as climate, economics, medical, etc. 
+    Datasets for this category can be found in [The Penn Machine Learning benchmarks (PMLB) directory](https://epistasislab.github.io/pmlb/).
 
 ???+ note "Research on SR datasets"
     <div class="meta_for_parser tablespecs"
@@ -35,8 +37,8 @@ Data sets, used for model training and testing, are categorized into two main gr
     ###  Linear approach
     </div>
 
-    * [Rethinking Symbolic Regression Datasets and Benchmarks for Scientific Discovery](https://arxiv.org/pdf/2206.10540.pdf)
-    * Expression Sampler as a Dynamic Benchmark for Symbolic Regression [[DOI]](https://openreview.net/pdf?id=i3PecpoiPG)
+    * [Rethinking Symbolic Regression Datasets and Benchmarks for Scientific Discovery](https://arxiv.org/pdf/2206.10540.pdf) 2022
+    * Expression Sampler as a Dynamic Benchmark for Symbolic Regression [[DOI]](https://openreview.net/pdf?id=i3PecpoiPG) 2023 
     
 
 ???+ note "Examples of mathematical equations"
@@ -50,6 +52,7 @@ Data sets, used for model training and testing, are categorized into two main gr
       | Koza-1 | $x^4 + x^3 + x^2 + x$ | 1 |  U[-1, 1, 20] |
       | Koza-2 | $x^5 - 2x^3 + x$	  | 1 | U[-1, 1, 20] |
       | Koza-3 | $x^6 - 2x^4 + x^2$    | 1 | U[-1, 1, 20] |
+      <br>
       | Keijzer-1 | $0.3 x \sin(2\pi x)$ | 1 | E[-1, 1, 0.1] |
       | Keijzer-2 | $0.3 x \sin(2\pi x)$ | 1 | E[-2, 2, 0.1] |
       | Keijzer-3 | $0.3 x \sin(2\pi x)$ | 1 | E[-3, 3, 0.1] |
