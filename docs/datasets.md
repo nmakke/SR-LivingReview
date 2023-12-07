@@ -21,7 +21,6 @@ Data sets, used for model training and testing, are categorized into two main gr
     | -------- | ------- | ------- | ------- | ----- | ----- | 
     | Physics | Ordinary differential equations <br> General physics equations (classical mechanics, electromagnetism, <br> quantum mechanics, gravity, nuclear physics, etc. )| Strogatz <br> AIFeynman | [Strogatz repositery](https://williamlacava.com/ode-strogatz/) <br> [Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html) | 10 <br> 120 | 2011 <br> 2019 |
     | <br> <br> <br> Mathematics | <br> <br> <br> monomials, polynomials, <br> trigonometric, exponential, etc.  | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> Livermore | Koza <br> [Keijer M.](https://link.springer.com/chapter/10.1007/3-540-36599-0_7) <br> [Vladislavleva E.J. *et al.*](https://dl.acm.org/doi/10.1109/TEVC.2008.926486) <br> [Uy N.Q. *et al.*](https://link.springer.com/article/10.1007/s10710-010-9121-2) <br> [Korns M.F. ](https://link.springer.com/chapter/10.1007/978-1-4614-1770-5_8) <br> [Krawiec K., Pawlak T.](https://dl.acm.org/doi/10.1145/2463372.2463483) <br> [Jin Y. *et al.*](https://idea.edu.cn/person/guojian/assets/papers/BSR-2020.pdf) <br> [Petersen B. K. *et al.*](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 | 
-    | This category any equation can be sampled |
 
 ???+ note "Real Data"
     <div class="meta_for_parser tablespecs"
