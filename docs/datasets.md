@@ -27,8 +27,7 @@ Data sets, used for model training and testing, are categorized into two main gr
     style="font-size: 1pt;visibility:hidden" markdown>
     </div>
 
-    For real-world problems, the underlying model is fully unknown.<br>
-    This category includes any type of data such as climate, economics, medical, etc. 
+    For real-world problems, the underlying model is fully unknown. This category includes any type of data such as climate, economics, medical, etc. <br>
     Datasets for this category can be found in [The Penn Machine Learning benchmarks (PMLB) directory](https://epistasislab.github.io/pmlb/).
 
 ???+ note "Research on SR datasets"
