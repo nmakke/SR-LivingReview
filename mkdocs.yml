@@ -8,7 +8,7 @@ theme:
 nav:
     - Home: index.md
     - About: sr.md
-    - Methods: mtds.md
+    - Methods: sr.md
     - Datasets: datasets.md
     - Ressources: ressources.md
     - SR Meets Physics: srphysics.md
