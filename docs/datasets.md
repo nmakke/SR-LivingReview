@@ -14,7 +14,7 @@ Data sets, used for model training and testing, are categorized into two main gr
     For synthetic problems, the analytical form of underlying models is known and used to generate data points. 
     This category includes physics equations which are constrained by physical units. <br>
     *Examples*:<br>
-    **mathematical equation**: $f(x) = 2x^2 + \cos(x) <!--\rightarrow \mathcal{D}=\{x_i,f(x_i)\}_{i=1}^{n}$ *for* $x \in [0,1]$ <br>-->
+    **mathematical equation**: $f(x) = 2x^2 + \cos(x)<br>
     **physical equation**: $f(x) = Gm_1m_2/r^2$ with $[m_1]=[m_2]=$ Kilograms, $[r]=$ meter and $G$ is gravitational constant.<br>
     
     | <div style="width:100px">Origin</div> | <div style="width:120px">Underlying model</div> | <div style="width:120px">Benchmark name</div> | <div style="width:100px">Reference</div> | <div style="width:100px">problems</div> | <div style="width:100px">year</div> |
