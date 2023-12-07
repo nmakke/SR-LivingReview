@@ -51,7 +51,7 @@ Data sets, used for model training and testing, are categorized into two main gr
       | Koza-1 | $x^4 + x^3 + x^2 + x$ | 1 |  U[-1, 1, 20] |
       | Koza-2 | $x^5 - 2x^3 + x$	  | 1 | U[-1, 1, 20] |
       | Koza-3 | $x^6 - 2x^4 + x^2$    | 1 | U[-1, 1, 20] |
-      <br>
+      
       | Keijzer-1 | $0.3 x \sin(2\pi x)$ | 1 | E[-1, 1, 0.1] |
       | Keijzer-2 | $0.3 x \sin(2\pi x)$ | 1 | E[-2, 2, 0.1] |
       | Keijzer-3 | $0.3 x \sin(2\pi x)$ | 1 | E[-3, 3, 0.1] |
@@ -67,6 +67,7 @@ Data sets, used for model training and testing, are categorized into two main gr
       | Keijzer-13 | $6\sin(x)\cos(y)$ | 2 | U[-3, 3, 20] |
       | Keijzer-14 | $8/(2+x^2+y^2)$ | 2 |  U[-3, 3, 20] |
       | Keijzer-15 | $x^3/5 +y^3/2-y-x$ | 2 | U[-3, 3, 20] |
+      
       | Vladislavleva-1 | $\frac{e^{-(x-1)^2}}{1.2+(y-2.5)^2}$ | 1 | U[0.3, 4, 100] |
       | Vladislavleva-2 | $e^{-x}x^3(\cos x\sin x)(\cos x \sin^2 x-1)$ | 2 | E[0.5, 10, 0.1] |
       | Vladislavleva-3 | $e^{-x}x^3(\cos x\sin x)(\cos x\sin^2 x-1)(y-5)$ | 2 | $x:$E[0.05,10,0.1] <br> $y:$E[0.05,10.05,2]|
