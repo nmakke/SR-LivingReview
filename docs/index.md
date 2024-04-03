@@ -72,6 +72,9 @@ hide:
                   <td>Physics equations</td>
                   <td>AIFeynman</td>
                   <td>120</td>
+              </tr>
+              <tr>
+                  <td>Physics equations</td>
                   <td>AIFeynman</td>
                   <td>120</td>
               </tr>
