@@ -70,7 +70,7 @@ hide:
                   <td rowspan=10>Synthetic data</td>
                   <td rowspan=2>Physics</td>
                   <td>Physics equations</td>
-                  <td>AIFeynman</td>
+                  <td> Revised AIFeynman</td>
                   <td>120</td>
               </tr>
               <tr>
