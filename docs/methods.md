@@ -84,7 +84,9 @@ hide:
     * [Controllable Neural Symbolic Regression](https://arxiv.org/pdf/2304.10336v1.pdf) (NSRwH)
     * A Transformer Model for symbolic regression towards scientific discovery [[DOI]](https://openreview.net/pdf?id=AIfqWNHKjo) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/omron-sinicx/transformer4sr)
     * [ODEFormer: Symbolic regression of dynamical systems with transformer](https://arxiv.org/pdf/2310.05573.pdf) [[DOI]](https://openreview.net/pdf?id=TzoHLiGVMo)[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/sdascoli/odeformer) (ODEFormer)
-    
+    * [Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search](https://arxiv.org/pdf/2302.11223.pdf) [[DOI]](https://openreview.net/forum?id=0rVXQEeFEL) [![#c5f015]() (DGSR-MCTS)
+    * [A Transformer Model for Symbolic Regression towards Scientific Discovery](https://arxiv.org/abs/2312.04070) [[DOI]](https://openreview.net/forum?id=AIfqWNHKjo) [![#c5f015](https://github.com/omron-sinicx/transformer4sr) (transformer4sr)
+    * [Transformer-based Planning for Symbolic Regression](https://arxiv.org/abs/2303.06833) [[DOI]](https://openreview.net/forum?id=0rVXQEeFEL) [![#c5f015](https://github.com/deep-symbolic-mathematics/TPSR) (TPSR)
 
 ## **Other SR approaches**
     
@@ -112,3 +114,5 @@ hide:
     </div>
 
     * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
+
+    * [GFN-SR: Symbolic Regression with Generative Flow Networks](https://arxiv.org/abs/2312.00396) [[DOI]](https://openreview.net/pdf?id=r3fzEWnaY4) [![#c5f015](https://github.com/listar2000/gfn-sr)
