@@ -72,6 +72,8 @@ hide:
                   <td>Physics equations</td>
                   <td>AIFeynman</td>
                   <td>120</td>
+                  <td>AIFeynman</td>
+                  <td>120</td>
               </tr>
               <tr>
                   <td>Ordinary differential equations</td>
