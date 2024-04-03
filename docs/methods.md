@@ -114,4 +114,4 @@ hide:
 
     * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
 
-    * [GFN-SR: Symbolic Regression with Generative Flow Networks](https://arxiv.org/abs/2312.00396) [[DOI]](https://openreview.net/pdf?id=r3fzEWnaY4) [![#c5f015](https://github.com/listar2000/gfn-sr)
+    * [GFN-SR: Symbolic Regression with Generative Flow Networks](https://arxiv.org/abs/2312.00396) [[DOI]](https://openreview.net/pdf?id=r3fzEWnaY4) [![#c5f015](https://github.com/listar2000/gfn-sr)`code`]
